@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46154941068",
+    "project_id": "sklad-d3ae5",
+    "storage_bucket": "sklad-d3ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46154941068:android:f3e597d609a8aa216e71a9",
+        "android_client_info": {
+          "package_name": "com.example.sklad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46154941068-q99vbivmn4i70k4ehrn8eo6cn5dsmptm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZgdAcklLULBZ-JJknX6EUxtK7ngxvsNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46154941068-q99vbivmn4i70k4ehrn8eo6cn5dsmptm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
